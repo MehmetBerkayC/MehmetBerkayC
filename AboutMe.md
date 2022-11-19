@@ -1,10 +1,10 @@
 # 👋 Welcome, I’m @MehmetBerkayC and i live in Turkey!
    I am a Computer Engineering graduate, so i'm mostly free, coding whenever i please, trying new things, and getting knowledge about how to manage complex projects.
    
-  ### -> I'm interested in *Game and Web Development* also a bit of *Data Management* and *Server-Side(Backend)* coding.
-  Have experience with **React, SQL, MongoDB, Unity(C#), Python** and **Java, JS** in general.
+  ### -> I'm interested in *Game and FrontEnd Web Development* also a bit of Backend coding.
+  Experienced with **React, SQL, MongoDB, Unity(C#), Python** and **Java, JS** in general.
   <br>Can code effectively in **C#, Java, JavaScript, C, HTML, PHP, CSS** and **Python**. Also some other languages like *Haskell* and *MIPS*... 
-  <br><br>I would love to get some advice or help mainly for Game Development, Web Development and a bit of Data Management.
+  <br><br>I would love to get some advice or help mainly for Game Development and some Web Development.
   
   ### A bit of information for my work style.. ❔
   - I like working with multiple people while keeping a professional distance. 
