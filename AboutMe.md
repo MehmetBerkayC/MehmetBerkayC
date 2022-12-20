@@ -1,5 +1,5 @@
 # 👋 Welcome, I’m @MehmetBerkayC and i live in Turkey!
-   I am a Computer Engineering graduate, so i'm mostly free, coding whenever i please, trying new things, and getting knowledge about how to manage complex projects.
+   I am a Computer Engineering graduate, so i'm mostly free, coding whenever i please, trying new things, and expanding my knowledge about how to manage complex projects.
    
   ### -> I'm interested in *Game and FrontEnd Web Development* also a bit of Backend coding.
   Experienced with **React, SQL, MongoDB, Unity(C#), Python** and **Java, JS** in general.
