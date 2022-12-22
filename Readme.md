@@ -1,4 +1,4 @@
-# 👋 Welcome, I’m @MehmetBerkayC and i live in Turkey!
+# 👋 Welcome, I’m @MehmetBerkayC and;
    I am a Computer Engineering graduate, often free, coding whenever I please, trying new things, expanding my knowledge about how to manage complex projects.
  
 ## -> I'm interested in *Game and Front End Development* also a bit of Backend coding.
