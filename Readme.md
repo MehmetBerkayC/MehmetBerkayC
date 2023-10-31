@@ -6,9 +6,8 @@
   <br>Can code effectively in **C#, JavaScript, HTML, PHP, CSS** and **Python**. Also some other languages like *Haskell* and *MIPS*... <br>
   
 ### A bit of information about my work style..
-  - Mostly focusing on writing clean codes. While learning something new, this may not be the case though.
-  - I hate leaving projects half way done.
-  - If there is a problem I don't give up easily, after all finding solutions what makes programming fun.
+  - Mostly focusing on writing clean codes.
+  - If there is a problem, I don't give up easily! After all, finding solutions what makes programming fun.
   - I've had most of my projects left unpolished or incomplete (mostly School/Intern related), so I don't usually put them up on github. 
   
  *Nowadays* <br>
