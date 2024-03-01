@@ -1,12 +1,10 @@
 # 👋 Welcome,
    I am a Computer Engineering graduate, trying new things and expanding my knowledge.
  
-## -> I'm interested in *Game and Front End Development*.
-  Experienced with **React, SQL, MongoDB, Unity(C#), Python, Java, JavaScript**.
-  <br>Can code effectively in **C#, JavaScript, HTML, PHP, CSS** and **Python**. Also some other languages like *Haskell* and *MIPS*... <br>
+## -> I'm interested in *Game Development*.
+  Experienced with **Unity, Python, JavaScript**.
   
-### A bit of information about my work style..
-  - Mostly focusing on writing clean codes.
+### A bit of information..
   - If there is a problem, I don't give up easily! After all, finding solutions what makes programming fun.
   - I've had most of my projects left unpolished or incomplete (mostly School/Intern related), so I don't usually put them up on github. 
   
