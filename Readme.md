@@ -2,7 +2,7 @@
    I am a Computer Engineering graduate, trying new things and expanding my knowledge.
  
 ## -> I'm interested in *Game Development*.
-  Experienced with **Unity, Python, JavaScript**.
+  Experienced with **Unity(C#), Python, JavaScript**.
   
 ### A bit of information..
   - If there is a problem, I don't give up easily! After all, finding solutions what makes programming fun.
