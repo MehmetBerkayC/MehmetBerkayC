@@ -1,21 +1,22 @@
-# 👋 Welcome,
-   I am a Computer Engineering graduate, trying new things and expanding my knowledge.
- 
-## -> I'm interested in *Game Development*.
-  Experienced with **Unity(C#), Python, JavaScript**.
-  
-### A bit of information..
-  - If there is a problem, I don't give up easily! After all, finding solutions what makes programming fun.
-  - I've had most of my projects left unpolished or incomplete (mostly School/Intern related), so I don't usually put them up on github. 
-  
- *Nowadays* <br>
-  - Working on some game prototypes in Unity, probably some already available for viewing in my repositories...
-  
-  
-📫 How to reach me:
-- By Mail: [berkay_coruk@hotmail.com] or [mehmetberkaycoruk@gmail.com]
-- You can also contact me on discord: [M.Berkay#9666](discordapp.com/users/M.Berkay#9666)
-- CV: -will add later-
+<h1 align="center">Hi, I'm Mehmet Berkay Coruk</h1>
+<h3 align="center">Computer Engineering graduate with a burning passion for Game Development</h3>
+
+<p align="center">Focusing on becoming a fully fledged Game Programmer in the future.</p>
+
+## Skills
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+![Unity](https://img.shields.io/badge/-CSharp-000?&logo=csharp)
+
+## Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/mehmet-berkay-coruk-b2b83420a/)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mehmetberkaycoruk@gmail.com)
+[![Hotmail](https://img.shields.io/badge/-Hotmail-000?&logo=microsoftoutlook)](berkay_coruk@hotmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)](discordapp.com/users/M.Berkay#9666)
+
+### Development Journey
+[![Itch.io](https://img.shields.io/badge/-Itch.io-000?&logo=itch.io)](https://mehmetberkayc.itch.io)
+
 <!---
 MehmetBerkayC/MehmetBerkayC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
