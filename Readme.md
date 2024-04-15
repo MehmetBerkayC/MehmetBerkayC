@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/mehmet-berkay-coruk-b2b83420a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mehmetberkaycoruk@gmail.com)
 [![Hotmail](https://img.shields.io/badge/-Hotmail-000?&logo=microsoftoutlook)](berkay_coruk@hotmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)](discordapp.com/users/M.Berkay#9666)
+[![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)](discordapp.com/users/306850664561246218)
 
 ### Development Journey
 [![Itch.io](https://img.shields.io/badge/-Itch.io-000?&logo=itch.io)](https://mehmetberkayc.itch.io)
