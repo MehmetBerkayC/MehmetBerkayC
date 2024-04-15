@@ -10,7 +10,7 @@
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/mehmet-berkay-coruk-b2b83420a/)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mehmetberkaycoruk@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](beqostore@gmail.com)
 [![Hotmail](https://img.shields.io/badge/-Hotmail-000?&logo=microsoftoutlook)](berkay_coruk@hotmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)](discordapp.com/users/M.Berkay#9666)
 
