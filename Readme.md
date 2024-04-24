@@ -6,7 +6,7 @@
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
-![Unity](https://img.shields.io/badge/-CSharp-000?&logo=csharp)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=csharp)
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/mehmet-berkay-coruk-b2b83420a/)
