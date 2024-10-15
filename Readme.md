@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mehmet Berkay Coruk</h1>
-<h4>Computer Engineering graduate that started as web developer, began liking C# as a student then fully commit to making games and prototypes in Unity!</h3>
+<h4>Computer Engineering graduate that started as web developer, began liking C# as a student then fully committed to making games and prototypes in Unity!</h3>
 
 <p>I am making game prototypes using Unity and sometimes switch to web development using React, NodeJS with some backend using Python, MySQL, PHP, MongoDB...</p>
 
