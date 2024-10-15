@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mehmet Berkay Coruk</h1>
 <h4>Computer Engineering graduate that started as web developer, began liking C# as a student later fully commit to making games and prototypes in Unity!</h3>
 
-<p>Experiences that i've had are making game prototypes using Unity and web development using React, NodeJS with some backend using Python, MySQL, PHP, MongoDB...</p>
+<p>I am making game prototypes using Unity and sometimes switch to web development using React, NodeJS with some backend using Python, MySQL, PHP, MongoDB...</p>
 
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
