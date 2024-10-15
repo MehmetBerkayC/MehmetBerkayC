@@ -8,6 +8,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=csharp)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/mehmet-berkay-coruk-b2b83420a/)
