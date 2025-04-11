@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mehmet Berkay Coruk 👋</h1>
 
 <p align="center">
-  🎮 Game Developer | 💻 Web Developer | 🎓 Computer Engineering Graduate
+  🎮 Game Developer | 💻 Web Developer | 🎓 Computer Engineer
 </p>
 
 ---
